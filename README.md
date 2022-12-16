@@ -4,7 +4,7 @@
 <h1 align="center">Hey 👋, I'm Damian Kohut</h1>
 <h3 align="center">A passionate full stack developer from New York City</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 - 🔭 I'm currently working on a project that teaches people how to invest and get acquainted with stocks. [Invex](https://github.com/Invex2022)
 

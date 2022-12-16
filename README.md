@@ -27,3 +27,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damiankohut&show_icons=true&locale=en&layout=compact" alt="damiankohut" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damiankohut&show_icons=true&locale=en" alt="damiankohut" /></p>
+
+```{toggle}
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+```

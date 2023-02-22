@@ -1,5 +1,4 @@
 <p align="center">
-<img width="700"  src="https://thumbs.gfycat.com/BigheartedGrimFlea-size_restricted.gif">
 </p>
 <h1 align="center">Hey 👋, I'm Damian Kohut</h1>
 <h3 align="center">A passionate full stack developer from New York City</h3>

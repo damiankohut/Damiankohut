@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Pern**
 
-- 📫 How to reach me **Damiankohut@gmail.com**
-
 - ⚡ Fun fact **If I can have a any superpower it would be the ability to gain a new super power everyday**
 
 <h3 align="left">Connect with me:</h3>
